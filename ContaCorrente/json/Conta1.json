@@ -1,0 +1,31 @@
+{
+  "Nome": "Pedro Henrique",
+  "Sobrenome": "Xavier",
+  "CPF": "02395082031",
+  "ID": "1995",
+  "Saldo": 0,
+  "Limite": 200,
+  "Movimentacoes": [
+    {
+      "Valor": 2.00,
+      "Credito": false
+    },
+    {
+      "Valor": 2000.00,
+      "Credito": true
+    },
+    {
+      "Valor": 4.50,
+      "Credito": false
+    },
+    {
+      "Valor": 500.00,
+      "Credito": false
+    },
+    {
+      "Valor": 2.50,
+      "Credito": false
+    }
+
+  ]
+}

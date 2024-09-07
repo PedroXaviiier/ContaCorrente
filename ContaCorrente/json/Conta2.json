@@ -1,0 +1,22 @@
+{
+  "Nome": "Jailson",
+  "Sobrenome": "Mendes",
+  "CPF": "82746591021",
+  "ID": "1569",
+  "Saldo": 500,
+  "Limite": 1000,
+  "Movimentacoes": [
+    {
+      "Valor": 54.00,
+      "Credito": true
+    },
+    {
+      "Valor": 20.00,
+      "Credito": false
+    },
+    {
+      "Valor": 42.50,
+      "Credito": false
+    }
+  ]
+}
